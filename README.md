@@ -1,3 +1,4 @@
+
 # Predicción de Engagement en Puntos de Interés Turísticos
 
 Este proyecto forma parte del módulo de Deep Learning del bootcamp de KeepCoding.  
@@ -95,10 +96,10 @@ set_seed(42)
 
 Evaluación en conjunto de test:
 
-- Accuracy: **91.4%**
-- F1-score: **90.2%**
-- Precision: **83.2%**
-- Recall: **98.4%**
+- Accuracy: **89.81%**
+- F1-score: **87.87%**
+- Precision: **84.06%**
+- Recall: **92.06%**
 
 Curvas de pérdida, matriz de confusión y análisis de errores están documentados en el notebook.
 
