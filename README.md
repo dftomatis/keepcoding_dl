@@ -108,14 +108,14 @@ Curvas de pérdida, matriz de confusión y análisis de errores están documenta
 ## Estructura del repositorio
 
 ```
-├── model/
-│   └── best_model.pth               # Pesos entrenados del mejor modelo
-├── src/
-│   ├── modelo.py                    # Clase MultimodalNet
-│   └── dataset.py                   # Clase POIDataset
-├── notebook_practica_poi.ipynb      # Desarrollo completo del proyecto
-├── requirements.txt                 # Entorno reproducible
-└── README.md                        # Este archivo
+├── best_model.pth                  # Pesos entrenados del mejor modelo
+├── data_main.zip                   # Archivo comprimido con imágenes
+├── Enunciado_Practica_DL.pdf       # Enunciado original de la práctica
+├── memoria_tecnica_POI.pdf         # Documento entregable final
+├── poi_dataset.csv                 # Dataset con los metadatos
+├── Practica_Deep_Learning.ipynb    # Notebook completo del proyecto
+├── README.md                       # Este archivo
+
 ```
 
 ---
